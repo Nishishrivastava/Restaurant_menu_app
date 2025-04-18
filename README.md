@@ -1,2 +1,2 @@
 # Restaurant Menu Application using React-JS
-Build a responsive restaurant menu website using React-JS. Created a user-friendly interface to display menu items and their details. 
+Build a responsive restaurant menu website using React.js will leverage React's component-based architecture to create a modular and maintainable front end that displays menu information in an organized and user-friendly way. The goal is to develop a user-friendly and visually appealing front-end interface for a restaurant menu website using React.js. This interface will enable customers to easily browse the restaurant's menu items, view item details, and enhance their online experience. The use of React.js will ensure a dynamic, performant, and maintainable front-end solution.
